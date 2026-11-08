@@ -6,13 +6,14 @@
 ![Functional Safety](https://img.shields.io/badge/ISO_13849--1-PL_e_%7C_SIL_3-red?style=for-the-badge)
 ![Machine](https://img.shields.io/badge/Machine-Mirka_WoodSander_5000-orange?style=for-the-badge)
 
-Bu depo, **Yazılım Mühendisliğinde Güncel Konular** dersi kapsamında yürütülen **Safety 4.0 Bootcamp** laboratuvar çalışmalarını içermektedir:
-* **[`2.1 şişeleme föyleri/`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri):** Genel Sürüm — Şişeleme Hattı laboratuvar föyleri.
-* **[`2.2 paketleme föyleri/`](./2.2%20paketleme%20f%C3%B6yleri):** 2.2 Paketleme Makinesi laboratuvar föylerinin **kendi seçtiğimiz makinemiz olan Mirka Smart WoodSander 5000 (Endüstriyel Ahşap Zımpara Makinesi)** için 1'den 7. föye kadar eksiksiz uyarlanmış PDF ve Markdown çıktıları.
+Bu depo, **Yazılım Mühendisliğinde Güncel Konular** dersi kapsamında yürütülen **Safety 4.0 Bootcamp** laboratuvar çalışmalarını içermektedir. Çalışmalar iki ana klasör altında toplanmıştır:
+
+* **[`2.1 şişeleme föyleri/`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri):** 2.1 Genel Sürüm (Şişeleme Hattı) şablonunun **kendi makinemiz olan Mirka Smart WoodSander 5000** için uyarlanmış 1'den 7'ye kadar tüm laboratuvar föyleri (`.docx` ve `.pdf`).
+* **[`2.2 paketleme föyleri/`](./2.2%20paketleme%20f%C3%B6yleri):** 2.2 Paketleme Makinesi şablonunun **kendi makinemiz olan Mirka Smart WoodSander 5000 (Endüstriyel Ahşap Zımpara Makinesi)** için 1'den 7'ye kadar eksiksiz uyarlanmış PDF ve Markdown çıktıları.
 
 ---
 
-## 🏭 Kendi Makinemiz: Mirka Smart WoodSander 5000 (2.2 Paketleme Uyarlaması)
+## 🏭 Kendi Makinemiz: Mirka Smart WoodSander 5000
 
 | Parametre | Açıklama |
 | :--- | :--- |
@@ -28,9 +29,22 @@ Bu depo, **Yazılım Mühendisliğinde Güncel Konular** dersi kapsamında yür�
 
 ---
 
-## 📂 2.2 Paketleme Föyleri — Kendi Makinemiz (Mirka Smart WoodSander 5000) İçin Hazırlanan 7 Laboratuvar
+## 📂 1. Klasör: `2.1 şişeleme föyleri` (7 Laboratuvar Föyü)
 
-[`2.2 paketleme föyleri`](./2.2%20paketleme%20f%C3%B6yleri) klasöründe kendi makinemiz **Mirka Smart WoodSander 5000** için uyarlanan 7 laboratuvarın hem doldurulmuş **PDF föyleri** hem de **Markdown dokümanları** yer almaktadır:
+| Föy No | Laboratuvar Adı | Dosya Bağlantısı | Çıktı Belgesi |
+| :---: | :--- | :--- | :--- |
+| **Şablon** | **2.1 Genel Sürüm · Şişeleme Hattı Föyleri** | [`2.1 lab_foyleri_siseleme.pdf`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/2.1%20lab_foyleri_siseleme.pdf) | Eğitim Şablonu |
+| **LAB 1** | **Safety Architecture** | [`LAB1_Safety_Architecture.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB1_Safety_Architecture.docx) | **EP 03:** Safety Function Map |
+| **LAB 2** | **IEC 62443 Mini Workshop** | [`LAB2_IEC62443_Mini_Workshop.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB2_IEC62443_Mini_Workshop.docx) | **EP 05:** Zone / Conduit Diagram |
+| **LAB 3** | **Threat & Risk + Risk Matrix** | [`LAB3_Threat_Risk_Matrix.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB3_Threat_Risk_Matrix.docx) | **EP 04:** Risk Register |
+| **LAB 4** | **Secure Remote Access** | [`LAB4_Secure_Remote_Access.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB4_Secure_Remote_Access.docx) | **EP 02 + EP 06:** Secure Architecture |
+| **LAB 5** | **SBOM / CVE / Patch** | [`LAB5_SBOM_CVE_Patch.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB5_SBOM_CVE_Patch.docx) | **EP 09 · 10 · 11:** Vulnerability Decision |
+| **LAB 6** | **CRA Incident Simulation** | [`LAB6_CRA_Incident_Simulation.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB6_CRA_Incident_Simulation.docx) | **EP 13:** Incident Workflow |
+| **LAB 7** | **AI Safety Challenge** | [`LAB7_AI_Safety_Challenge.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB7_AI_Safety_Challenge.docx) | **EP 03 + EP 15:** AI Fail-Safe Decision |
+
+---
+
+## 📂 2. Klasör: `2.2 paketleme föyleri` — Kendi Makinemiz (Mirka Smart WoodSander 5000) İçin Hazırlanan 7 Laboratuvar
 
 | Föy No | Laboratuvar Adı | PDF Föyü (Kendi Makinemiz) | Markdown Dokümanı | Çıktı Belgesi |
 | :---: | :--- | :--- | :--- | :--- |
