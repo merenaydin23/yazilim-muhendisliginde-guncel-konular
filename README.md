@@ -46,15 +46,15 @@ Bu depo, **Yazılım Mühendisliğinde Güncel Konular** dersi kapsamında yür�
 
 ## 📂 2. Klasör: `2.2 paketleme föyleri` — Kendi Makinemiz (Mirka Smart WoodSander 5000) İçin Hazırlanan 7 Laboratuvar
 
-| Föy No | Laboratuvar Adı | PDF Föyü (Kendi Makinemiz) | Markdown Dokümanı | Çıktı Belgesi |
-| :---: | :--- | :--- | :--- | :--- |
-| **LAB 1** | **Safety Architecture** | [`2_2_Foy_1_Safety_Architecture.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_1_Safety_Architecture.pdf) | [`1. Hafta - Safety Architecture.md`](./2.2%20paketleme%20f%C3%B6yleri/1.%20Hafta%20-%20Safety%20Architecture.md) | **EP 03:** Safety Function Map |
-| **LAB 2** | **IEC 62443 Mini Workshop** | [`2_2_Foy_2_IEC_62443_Mini_Workshop.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_2_IEC_62443_Mini_Workshop.pdf) | [`2. Hafta - IEC 62443 Mini Workshop.md`](./2.2%20paketleme%20f%C3%B6yleri/2.%20Hafta%20-%20IEC%2062443%20Mini%20Workshop.md) | **EP 05:** Zone / Conduit Diagram |
-| **LAB 3** | **Threat & Risk + Risk Matrix** | [`2_2_Foy_3_Threat_Risk_Matrix.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_3_Threat_Risk_Matrix.pdf) | [`3. Hafta - Threat and Risk Matrix.md`](./2.2%20paketleme%20f%C3%B6yleri/3.%20Hafta%20-%20Threat%20and%20Risk%20Matrix.md) | **EP 04:** Risk Register |
-| **LAB 4** | **Secure Remote Access** | [`2_2_Foy_4_Secure_Remote_Access.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_4_Secure_Remote_Access.pdf) | [`4. Hafta - Secure Remote Access.md`](./2.2%20paketleme%20f%C3%B6yleri/4.%20Hafta%20-%20Secure%20Remote%20Access.md) | **EP 02 + EP 06:** Secure Architecture |
-| **LAB 5** | **SBOM / CVE / Patch** | [`2_2_Foy_5_SBOM_CVE_Patch.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_5_SBOM_CVE_Patch.pdf) | [`5. Hafta - SBOM CVE Patch.md`](./2.2%20paketleme%20f%C3%B6yleri/5.%20Hafta%20-%20SBOM%20CVE%20Patch.md) | **EP 09 · 10 · 11:** Vulnerability Decision |
-| **LAB 6** | **CRA Incident Simulation** | [`2_2_Foy_6_CRA_Incident_Simulation.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_6_CRA_Incident_Simulation.pdf) | [`6. Hafta - CRA Incident Simulation.md`](./2.2%20paketleme%20f%C3%B6yleri/6.%20Hafta%20-%20CRA%20Incident%20Simulation.md) | **EP 13:** Incident Workflow |
-| **LAB 7** | **AI Safety Challenge** | [`2_2_Foy_7_AI_Safety_Challenge.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_7_AI_Safety_Challenge.pdf) | [`7. Hafta - AI Safety Challenge.md`](./2.2%20paketleme%20f%C3%B6yleri/7.%20Hafta%20-%20AI%20Safety%20Challenge.md) | **EP 03 + EP 15:** AI Fail-Safe Decision |
+| Föy No | Laboratuvar Adı | Doldurulmuş PDF Föyü (Kendi Makinemiz) | Çıktı Belgesi |
+| :---: | :--- | :--- | :--- |
+| **LAB 1** | **Safety Architecture** | [`2_2_Foy_1_Safety_Architecture.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_1_Safety_Architecture.pdf) | **EP 03:** Safety Function Map |
+| **LAB 2** | **IEC 62443 Mini Workshop** | [`2_2_Foy_2_IEC_62443_Mini_Workshop.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_2_IEC_62443_Mini_Workshop.pdf) | **EP 05:** Zone / Conduit Diagram |
+| **LAB 3** | **Threat & Risk + Risk Matrix** | [`2_2_Foy_3_Threat_Risk_Matrix.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_3_Threat_Risk_Matrix.pdf) | **EP 04:** Risk Register |
+| **LAB 4** | **Secure Remote Access** | [`2_2_Foy_4_Secure_Remote_Access.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_4_Secure_Remote_Access.pdf) | **EP 02 + EP 06:** Secure Architecture |
+| **LAB 5** | **SBOM / CVE / Patch** | [`2_2_Foy_5_SBOM_CVE_Patch.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_5_SBOM_CVE_Patch.pdf) | **EP 09 · 10 · 11:** Vulnerability Decision |
+| **LAB 6** | **CRA Incident Simulation** | [`2_2_Foy_6_CRA_Incident_Simulation.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_6_CRA_Incident_Simulation.pdf) | **EP 13:** Incident Workflow |
+| **LAB 7** | **AI Safety Challenge** | [`2_2_Foy_7_AI_Safety_Challenge.pdf`](./2.2%20paketleme%20f%C3%B6yleri/2_2_Foy_7_AI_Safety_Challenge.pdf) | **EP 03 + EP 15:** AI Fail-Safe Decision |
 
 ---
 
