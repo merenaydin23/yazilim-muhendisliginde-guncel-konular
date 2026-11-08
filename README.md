@@ -31,16 +31,15 @@ Bu depo, **Yazılım Mühendisliğinde Güncel Konular** dersi kapsamında yür�
 
 ## 📂 1. Klasör: `2.1 şişeleme föyleri` (7 Laboratuvar Föyü)
 
-| Föy No | Laboratuvar Adı | Dosya Bağlantısı | Çıktı Belgesi |
+| Föy No | Laboratuvar Adı | Doldurulmuş PDF Föyü | Çıktı Belgesi |
 | :---: | :--- | :--- | :--- |
-| **Şablon** | **2.1 Genel Sürüm · Şişeleme Hattı Föyleri** | [`2.1 lab_foyleri_siseleme.pdf`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/2.1%20lab_foyleri_siseleme.pdf) | Eğitim Şablonu |
-| **LAB 1** | **Safety Architecture** | [`LAB1_Safety_Architecture.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB1_Safety_Architecture.docx) | **EP 03:** Safety Function Map |
-| **LAB 2** | **IEC 62443 Mini Workshop** | [`LAB2_IEC62443_Mini_Workshop.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB2_IEC62443_Mini_Workshop.docx) | **EP 05:** Zone / Conduit Diagram |
-| **LAB 3** | **Threat & Risk + Risk Matrix** | [`LAB3_Threat_Risk_Matrix.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB3_Threat_Risk_Matrix.docx) | **EP 04:** Risk Register |
-| **LAB 4** | **Secure Remote Access** | [`LAB4_Secure_Remote_Access.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB4_Secure_Remote_Access.docx) | **EP 02 + EP 06:** Secure Architecture |
-| **LAB 5** | **SBOM / CVE / Patch** | [`LAB5_SBOM_CVE_Patch.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB5_SBOM_CVE_Patch.docx) | **EP 09 · 10 · 11:** Vulnerability Decision |
-| **LAB 6** | **CRA Incident Simulation** | [`LAB6_CRA_Incident_Simulation.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB6_CRA_Incident_Simulation.docx) | **EP 13:** Incident Workflow |
-| **LAB 7** | **AI Safety Challenge** | [`LAB7_AI_Safety_Challenge.docx`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB7_AI_Safety_Challenge.docx) | **EP 03 + EP 15:** AI Fail-Safe Decision |
+| **LAB 1** | **Safety Architecture** | [`LAB1_Safety_Architecture.pdf`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB1_Safety_Architecture.pdf) | **EP 03:** Safety Function Map |
+| **LAB 2** | **IEC 62443 Mini Workshop** | [`LAB2_IEC62443_Mini_Workshop.pdf`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB2_IEC62443_Mini_Workshop.pdf) | **EP 05:** Zone / Conduit Diagram |
+| **LAB 3** | **Threat & Risk + Risk Matrix** | [`LAB3_Threat_Risk_Matrix.pdf`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB3_Threat_Risk_Matrix.pdf) | **EP 04:** Risk Register |
+| **LAB 4** | **Secure Remote Access** | [`LAB4_Secure_Remote_Access.pdf`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB4_Secure_Remote_Access.pdf) | **EP 02 + EP 06:** Secure Architecture |
+| **LAB 5** | **SBOM / CVE / Patch** | [`LAB5_SBOM_CVE_Patch.pdf`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB5_SBOM_CVE_Patch.pdf) | **EP 09 · 10 · 11:** Vulnerability Decision |
+| **LAB 6** | **CRA Incident Simulation** | [`LAB6_CRA_Incident_Simulation.pdf`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB6_CRA_Incident_Simulation.pdf) | **EP 13:** Incident Workflow |
+| **LAB 7** | **AI Safety Challenge** | [`LAB7_AI_Safety_Challenge.pdf`](./2.1%20%C5%9Fi%C5%9Feleme%20f%C3%B6yleri/LAB7_AI_Safety_Challenge.pdf) | **EP 03 + EP 15:** AI Fail-Safe Decision |
 
 ---
 
