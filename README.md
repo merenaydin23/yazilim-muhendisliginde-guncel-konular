@@ -58,6 +58,14 @@ Bu depo, **Yazılım Mühendisliğinde Güncel Konular** dersi kapsamında yür�
 
 ---
 
+## 📊 3. Stratejik Analiz: SWOT Analizi
+
+Mirka Smart WoodSander 5000 için Safety 4.0 LAB 1–7 çalışmaları doğrultusunda hazırlanan stratejik analiz raporu:
+* **Markdown Raporu:** [`SWOT Analizi — Mirka Smart WoodSander 5000.md`](./SWOT%20Analizi%20%E2%80%94%20Mirka%20Smart%20WoodSander%205000.md)
+* **PDF Belgesi:** [`SWOT Analizi — Mirka Smart WoodSander 5000.pdf`](./SWOT%20Analizi%20%E2%80%94%20Mirka%20Smart%20WoodSander%205000.pdf)
+
+---
+
 ## 👤 Hazırlayan & İletişim
 * **Öğrenci / Araştırmacı:** merenaydin23
 * **Ders:** Yazılım Mühendisliğinde Güncel Konular
